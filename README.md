@@ -88,14 +88,5 @@ Cricket-Data-Engineering-Pipeline/
 - Integrate visualization tools for cricket analytics.
 - Develop dashboards for match-level and player-level insights.
 
-## 📚 Acknowledgement
-
-This project was developed as a hands-on learning exercise, following the tutorial and project reference by Anurag Anurag.
-
-Original repository: https://github.com/anuanurag2410/cricket-big-data-project
-
-The implementation is intended for educational purposes, with further modifications and improvements as the project evolves.
-
----
 
 **Built using Python, Apache Spark and the Medallion Architecture.**
